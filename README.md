@@ -28,3 +28,5 @@ This is a lightweight prototype ideal for educational and early-stage EC-level b
 > stellar contract id: 
 CD6PTIXGTE7SXK3RPUDXQXJHRUUFESTJFWIFWREAYYMSCNZUAM7Q62ET
 ```
+
+![proof of work](proof.png)
