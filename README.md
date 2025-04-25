@@ -22,3 +22,9 @@ To create a transparent and tamper-proof ledger for analyzing and storing social
 ---
 
 This is a lightweight prototype ideal for educational and early-stage EC-level blockchain-based analytics projects.
+
+
+```sh
+> stellar contract id: 
+CD6PTIXGTE7SXK3RPUDXQXJHRUUFESTJFWIFWREAYYMSCNZUAM7Q62ET
+```
